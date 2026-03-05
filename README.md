@@ -1,2 +1,2 @@
 # HTML-Quick-Styler
-The Traffic Accident Data Analysis and Visualization project focuses on analyzing road accident data to identify patterns, trends, and key factors that contribute to traffic accidents.
+HTML Quick Styler is a tool used to quickly design and style web pages using HTML and CSS. HTML creates the structure of a webpage, while CSS improves its appearance. With Quick Styler, users can easily change text color, font size, background color, margins, and padding. It reduces the need to write long and complex CSS code. This tool is especially helpful for beginners learning web development. It saves time, improves website design, and ensures consistent styling across pages. Overall, HTML Quick Styler makes web design simple, fast, and efficient.
